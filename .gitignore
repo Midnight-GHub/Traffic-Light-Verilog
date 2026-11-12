@@ -7,3 +7,5 @@
 
 # Compiled binaries
 *.o
+
+/src/sim
